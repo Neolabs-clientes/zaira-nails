@@ -1,0 +1,383 @@
+{
+ "ficha": {
+  "nombre": "Zaira Nails",
+  "claim_sitio": "Centro de uñas en Alcalá de Henares",
+  "direccion": "Calle de Campo Real 5, 28806 Alcalá de Henares (Madrid)",
+  "telefono": "+34 616 60 55 45",
+  "tel_link": "34616605545",
+  "email": "zairasiempre@gmail.com",
+  "horario": "Lunes a viernes, 09:30 - 18:00",
+  "cerrado": "Sábados y domingos cerrado",
+  "promo": "Reserva tu cita y obtén un 10% de descuento",
+  "nota_google": "5,0",
+  "resenas_google": "384",
+  "reserva_general": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking",
+  "maps": "https://www.google.com/maps/search/?api=1&query=Calle+de+Campo+Real+5+28806+Alcal%C3%A1+de+Henares",
+  "foto_real": "https://images.fresha.com/partner-portfolios/providers/2609503/a27a06f6-87cc-4b48-888c-ad26cf52b257.jpeg?class=width-xlarge"
+ },
+ "catalogo": [
+  {
+   "categoria": "Esmaltado Permanente Manos",
+   "servicios": [
+    {
+     "nombre": "Cambio de Forma",
+     "precio": 3.0,
+     "min": "5 min",
+     "cat": "Esmaltado Permanente Manos",
+     "desc": "¿Te apetece darle un nuevo estilo a tus uñas acrílicas? Con este servicio podrás cambiar la forma de tus uñas para renovar tu look y adaptarlo a tus gustos. Ideal si buscas algo diferente sin necesidad de retirar tus uñas actuales.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21827185"
+    },
+    {
+     "nombre": "Limpieza de Cutículas",
+     "precio": 12.0,
+     "min": "15 min",
+     "cat": "Esmaltado Permanente Manos",
+     "desc": "La limpieza de cutículas ayuda a suavizar las manos e igualar las pequeñas durezas y piel muerta que se genera alrededor de las uñas. Embellece los dedos y proporciona un acabado diáfano de cara a aplicar un esmalte.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21651078"
+    }
+   ]
+  },
+  {
+   "categoria": "Relleno Acrilico",
+   "servicios": [
+    {
+     "nombre": "Cambio de Forma",
+     "precio": 3.0,
+     "min": "5 min",
+     "cat": "Relleno Acrilico",
+     "desc": "¿Te apetece darle un nuevo estilo a tus uñas acrílicas? Con este servicio podrás cambiar la forma de tus uñas para renovar tu look y adaptarlo a tus gustos. Ideal si buscas algo diferente sin necesidad de retirar tus uñas actuales.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21827178"
+    },
+    {
+     "nombre": "Acrilico Guitarrista",
+     "precio": 15.0,
+     "min": "30 min",
+     "cat": "Relleno Acrilico",
+     "desc": "Consigue un look natural y limpio con acrílico cristal en una sola mano, ideal para quienes buscan un acabado sencillo y sin brillo. No incluye capa de top, perfecto para un estilo basico para un guitarrista",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21766995"
+    }
+   ]
+  },
+  {
+   "categoria": "Pedicuras y Tratamientos Pies",
+   "servicios": [
+    {
+     "nombre": "cortar solo",
+     "precio": 6.0,
+     "min": "10 min",
+     "cat": "Pedicuras y Tratamientos Pies",
+     "desc": "cortar solo at Zaira Nails, available to book online.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:24543240"
+    },
+    {
+     "nombre": "Cortar uñas pies",
+     "precio": 10.0,
+     "min": "15 min",
+     "cat": "Pedicuras y Tratamientos Pies",
+     "desc": "Disfruta de unas uñas de los pies bien cuidadas con corte y limado suave utilizando torno, logrando una forma uniforme y limpia. Este servicio no incluye esmaltado, ideal para quienes buscan un aspecto natural y ordenado en sus pies.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21651112"
+    },
+    {
+     "nombre": "Retirado de Esmalte Permanente pies",
+     "precio": 11.0,
+     "min": "15 min",
+     "cat": "Pedicuras y Tratamientos Pies",
+     "desc": "Devuelve a tus uñas su aspecto natural con la retirada profesional del esmalte permanente. El proceso es cuidadoso y protege la superficie de la uña, preparándola para cualquier nuevo diseño o tratamiento que desees. Ideal para mantener unas uñas sanas y bien cuidadas.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21827204"
+    },
+    {
+     "nombre": "Pedicura",
+     "precio": 30.0,
+     "min": "50 min",
+     "cat": "Pedicuras y Tratamientos Pies",
+     "desc": "Disfruta de un momento de cuidado y relax para tus pies. Este servicio ayuda a mantener tus uñas y piel en perfecto estado, proporcionando una sensación de frescura y bienestar. Ideal para lucir pies sanos y bonitos en cualquier época del año. SIN ESMALTADO",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21917228"
+    },
+    {
+     "nombre": "Tratamiento de parafina + Esmaltado de color",
+     "precio": 40.5,
+     "min": "1 h 30 min",
+     "cat": "Pedicuras y Tratamientos Pies",
+     "desc": "Tratamiento de parafina + Esmaltado de color at Zaira Nails, available to book online.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=p:1676491"
+    },
+    {
+     "nombre": "Pedicura spa",
+     "precio": 50.0,
+     "min": "1 h 30 min",
+     "cat": "Pedicuras y Tratamientos Pies",
+     "desc": "Disfruta de una experiencia de relajación total con nuestra pedicura spa. Comenzamos con un cuidadoso retiro de durezas, seguido de una exfoliación que revitaliza tus pies. Un suave vapor prepara tu piel para una mascarilla hidratante, y un masajito relajante completa el tratamiento. Para finalizar, un esmaltado perfecto que dejará tus uñas deslumbrantes. Celebra la belleza y bienestar de tus pies con un servicio diseñado para mimarte.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:25702329"
+    }
+   ]
+  },
+  {
+   "categoria": "Tratamientos para las manos",
+   "servicios": [
+    {
+     "nombre": "Tratamiento Parafina",
+     "precio": 22.5,
+     "min": "45 min",
+     "cat": "Tratamientos para las manos",
+     "desc": "Exfoliación + hidratación.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21651086"
+    }
+   ]
+  },
+  {
+   "categoria": "Extensiones y Lifting de Pestañas",
+   "servicios": [
+    {
+     "nombre": "Lifting de Pestañas",
+     "precio": 40.0,
+     "min": "1 h",
+     "cat": "Extensiones y Lifting de Pestañas",
+     "desc": "Realza la belleza natural de tus pestañas con un efecto curvado y definido. Este servicio aporta una apariencia más abierta y expresiva a tu mirada, sin necesidad de aplicar extensiones. Ideal para quienes buscan un resultado sutil y favorecedor.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21651079"
+    }
+   ]
+  },
+  {
+   "categoria": "Tratamientos Faciales",
+   "servicios": [
+    {
+     "nombre": "Maderoterapia Facial",
+     "precio": 25.0,
+     "min": "30 min",
+     "cat": "Tratamientos Faciales",
+     "desc": "Disfruta de una experiencia relajante que ayuda a revitalizar el rostro y aportar frescura a la piel. Este tratamiento utiliza técnicas manuales y con utensilios de madera personalizadas para estimular la zona facial y promover una sensación de bienestar. Ideal para quienes buscan un cuidado natural y efectivo.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21651107"
+    },
+    {
+     "nombre": "Tratamiento Facial Dermapen",
+     "precio": 65.0,
+     "min": "1 h 30 min",
+     "cat": "Tratamientos Faciales",
+     "desc": "Descubre una experiencia de cuidado facial moderna y precisa que ayuda a revitalizar tu piel. El tratamiento facial Dermapen utiliza una técnica avanzada para mejorar el aspecto y la textura del rostro, ofreciendo frescura y luminosidad en cada sesión. Ideal para quienes buscan un cuidado efectivo y profesional.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21651090"
+    },
+    {
+     "nombre": "Full Face",
+     "precio": 75.0,
+     "min": "1 h 30 min",
+     "cat": "Tratamientos Faciales",
+     "desc": "Tratamiento facial de hidratación Y tratamiento trabajado con Derma Pen, todo el rostro contorno de ojos labios, cuello y escote. Siempre personalizado para cada tipo de piel y necesidades de la persona",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21712401"
+    }
+   ]
+  },
+  {
+   "categoria": "Masajes y Tratamientos Corporales",
+   "servicios": [
+    {
+     "nombre": "Presoterapia",
+     "precio": 20.0,
+     "min": "30 min",
+     "cat": "Masajes y Tratamientos Corporales",
+     "desc": "Disfruta de una experiencia relajante con este tratamiento corporal que utiliza tecnología de presión de aire. Ayuda a mejorar la sensación de bienestar y favorece la relajación. Ideal si buscas un momento de cuidado personal y descanso.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21651092"
+    },
+    {
+     "nombre": "Masaje 30 min",
+     "precio": 25.0,
+     "min": "30 min",
+     "cat": "Masajes y Tratamientos Corporales",
+     "desc": "Regálate un momento de desconexión y bienestar con una sesión breve de masaje. Disfruta de 30 minutos dedicados a aliviar tensiones y relajar cuerpo y mente en un ambiente tranquilo y agradable. Ideal para quienes buscan una pausa reparadora en su día.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21651069"
+    },
+    {
+     "nombre": "Peeling corporal",
+     "precio": 30.0,
+     "min": "45 min",
+     "cat": "Masajes y Tratamientos Corporales",
+     "desc": "Renueva tu piel y disfruta de una sensación de frescura y suavidad. El peeling corporal elimina las células muertas y ayuda a mejorar el aspecto general de la piel, dejándola más lisa y luminosa. Ideal para quienes buscan cuidar su cuerpo y mimarse con un tratamiento relajante y revitalizante.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21712494"
+    },
+    {
+     "nombre": "Masaje corporal relajante",
+     "precio": 35.0,
+     "min": "1 h",
+     "cat": "Masajes y Tratamientos Corporales",
+     "desc": "Masaje corporal relajante at Zaira Nails, available to book online.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:25425692"
+    },
+    {
+     "nombre": "Masaje y vendas frías",
+     "precio": 35.0,
+     "min": "1 h",
+     "cat": "Masajes y Tratamientos Corporales",
+     "desc": "Disfruta de una experiencia refrescante y relajante con este tratamiento corporal. Combina un masaje suave con la aplicación de vendas frías para aportar bienestar y sensación de frescura a tu piel. Ideal para quienes buscan cuidarse y desconectar en un ambiente profesional y acogedor.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21712509"
+    },
+    {
+     "nombre": "Masaje",
+     "precio": 40.0,
+     "min": "1 h",
+     "cat": "Masajes y Tratamientos Corporales",
+     "desc": "Disfruta de un momento de relajación y bienestar con un masaje pensado para cuidar tu cuerpo y mente. Esta experiencia ayuda a liberar tensiones y aporta una agradable sensación de confort. Ideal para quienes buscan desconectar y dedicar un tiempo a sí mismos.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21651073"
+    },
+    {
+     "nombre": "Masaje de espalda",
+     "precio": 40.0,
+     "min": "1 h",
+     "cat": "Masajes y Tratamientos Corporales",
+     "desc": "Disfruta de un momento de relajación y Descontracturante pensado para aliviar la tensión acumulada en la espalda. Este servicio te ayuda a desconectar del estrés diario y aporta una agradable sensación de bienestar. Ideal para quienes buscan cuidar su cuerpo y mente en un ambiente tranquilo.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21712466"
+    },
+    {
+     "nombre": "Maderoterapia",
+     "precio": 45.0,
+     "min": "1 h",
+     "cat": "Masajes y Tratamientos Corporales",
+     "desc": "Descubre una experiencia de bienestar que ayuda a relajar el cuerpo y aliviar tensiones. Este tratamiento utiliza técnicas específicas para estimular y cuidar tu piel, proporcionando una sensación de confort y equilibrio. Ideal para quienes buscan un momento de relajación y autocuidado.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21651067"
+    },
+    {
+     "nombre": "Drenaje linfático",
+     "precio": 45.0,
+     "min": "1 h",
+     "cat": "Masajes y Tratamientos Corporales",
+     "desc": "Si buscas una sensación de ligereza y bienestar, este masaje especializado ayuda a estimular el sistema linfático mediante movimientos suaves y rítmicos. Ideal para quienes desean cuidar su cuerpo y relajarse en un ambiente tranquilo y profesional.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21712485"
+    },
+    {
+     "nombre": "Bono 5 Maderoterapia",
+     "precio": 200.0,
+     "min": "1 h",
+     "cat": "Masajes y Tratamientos Corporales",
+     "desc": "Disfruta de un tratamiento corporal que ayuda a tonificar y remodelar tu figura. Con este bono de cinco sesiones de maderoterapia, mejorarás la apariencia de la piel y potenciarás la relajación en cada visita. Ideal para quienes buscan resultados visibles y bienestar.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21712536"
+    },
+    {
+     "nombre": "Bono 5 de Maderoterapia más Preso",
+     "precio": 240.0,
+     "min": "1 h 30 min",
+     "cat": "Masajes y Tratamientos Corporales",
+     "desc": "Disfruta de un tratamiento completo con cinco sesiones de Maderoterapia y cinco de Presoterapia. Ideal para quienes buscan mejorar la apariencia de la piel y favorecer el bienestar corporal de forma natural y efectiva.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21712633"
+    }
+   ]
+  },
+  {
+   "categoria": "Depilación",
+   "servicios": [
+    {
+     "nombre": "Depilación Cera Labios",
+     "precio": 7.0,
+     "min": "15 min",
+     "cat": "Depilación",
+     "desc": "Luce un acabado limpio y cuidado en tu rostro con la depilación de labio superior con cera. Elimina el vello no deseado de forma rápida y sencilla, logrando una sensación suave y una apariencia más definida. Ideal para quienes buscan comodidad y un aspecto impecable cada día.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21651072"
+    },
+    {
+     "nombre": "Depilación cejas",
+     "precio": 10.0,
+     "min": "15 min",
+     "cat": "Depilación",
+     "desc": "Logra unas cejas perfectamente definidas y en armonía con tu rostro. La depilación con cera elimina el vello de raíz y permite diseñar la forma ideal para resaltar tu mirada, logrando un acabado limpio, preciso y duradero.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21651093"
+    },
+    {
+     "nombre": "Depilación Ingles",
+     "precio": 10.0,
+     "min": "15 min",
+     "cat": "Depilación",
+     "desc": "Disfruta de una piel suave y libre de vello con nuestra depilación de ingles utilizando cera caliente. El método garantiza resultados duraderos y minimiza la irritación, proporcionando una experiencia cómoda y eficaz en cada sesión. Ideal para quienes buscan higiene y cuidado en la zona íntima.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21651075"
+    },
+    {
+     "nombre": "Depilación Brazos",
+     "precio": 15.0,
+     "min": "30 min",
+     "cat": "Depilación",
+     "desc": "Disfruta de una piel suave y libre de vello con una depilación de brazos profesional. Este servicio elimina el vello no deseado de ambos brazos, dejando una sensación agradable y un aspecto más cuidado. Ideal para quienes buscan comodidad y bienestar en su rutina de belleza.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21651068"
+    },
+    {
+     "nombre": "Depilación Cera Medias Piernas",
+     "precio": 15.0,
+     "min": "30 min",
+     "cat": "Depilación",
+     "desc": "Consigue una piel suave y libre de vello con nuestra depilación de medias piernas usando cera tibia. El tratamiento es rápido, eficaz y ayuda a retrasar el crecimiento del vello, dejando tus piernas frescas y cuidadas por más tiempo. Ideal para lucir comodidad y bienestar.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21651077"
+    },
+    {
+     "nombre": "Depilación Cera Ingles Brasileñas",
+     "precio": 15.0,
+     "min": "30 min",
+     "cat": "Depilación",
+     "desc": "Consigue una piel suave y cuidada con una depilación de ingles brasileñas con cera. Elimina el vello no deseado en la zona íntima de forma precisa y profesional, en un ambiente cómodo y discreto. Ideal para quienes buscan una sensación de frescura y bienestar duradera.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21651074"
+    },
+    {
+     "nombre": "Depilación Cera Piernas Enteras",
+     "precio": 18.0,
+     "min": "30 min",
+     "cat": "Depilación",
+     "desc": "Disfruta de una piel suave y libre de vello con nuestra depilación de piernas completas utilizando cera tibia. Elimina el vello desde la raíz y consigue resultados duraderos, cuidando la salud de tu piel en cada sesión. Ideal para lucir unas piernas impecables en cualquier ocasión.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21651076"
+    },
+    {
+     "nombre": "Depilación masculina espalda",
+     "precio": 20.0,
+     "min": "1 h",
+     "cat": "Depilación",
+     "desc": "Descubre una nueva sensación de suavidad con nuestra depilación masculina de espalda. Este servicio está diseñado para eliminar el vello no deseado, dejando la piel fresca y libre de irritaciones. Disfruta de un tratamiento profesional en un ambiente cómodo y relajante.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:25425593"
+    },
+    {
+     "nombre": "Depilación masculina pecho",
+     "precio": 20.0,
+     "min": "1 h",
+     "cat": "Depilación",
+     "desc": "Elimina el vello no deseado de tu pecho de manera suave y efectiva. Este servicio está diseñado para ofrecerte una piel más limpia y suave, proporcionándote una sensación de frescura y comodidad. Ideal para quienes buscan una estética cuidada y masculina.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:25425557"
+    },
+    {
+     "nombre": "Depilación Cera Pubis completo",
+     "precio": 20.0,
+     "min": "30 min",
+     "cat": "Depilación",
+     "desc": "Disfruta de una piel suave y cuidada con una depilación completa de la zona íntima. Elimina el vello de manera eficaz y consigue una sensación de frescura y limpieza. Un servicio pensado para tu comodidad y bienestar, realizado con atención profesional y máxima higiene.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:21651071"
+    },
+    {
+     "nombre": "Depilación piernas masculina",
+     "precio": 25.0,
+     "min": "1 h",
+     "cat": "Depilación",
+     "desc": "Disfruta de una piel suave y libre de vello con nuestro servicio de depilación de piernas para hombres. Este tratamiento te proporciona comodidad y confianza, adaptándose a tus necesidades para lograr un resultado que se siente tan bien como se ve.",
+     "url": "https://www.fresha.com/a/zaira-nails-alcala-de-henares-calle-de-campo-real-5-s50nab1w/booking?offerItemId=s:25425504"
+    }
+   ]
+  }
+ ],
+ "opiniones": [
+  {
+   "texto": "Siempre maravilloso, personal y atención de 10 y qué decir de su profesionalidad. Inmejorables",
+   "autor": "Pilar M"
+  },
+  {
+   "texto": "Maravillosa!! Nunca nadie me había aconsejado sobre la forma de las uñas, Zaira lo hizo y gracias a ella tengo unas manos totalmente diferente. Mil gracias",
+   "autor": "Esther F"
+  },
+  {
+   "texto": "Maravillosas como siempre.",
+   "autor": "Maisor A"
+  },
+  {
+   "texto": "Atención increíble y muy majas todas las trabajadoras,t hacen sentir como en casa,muy profesionales",
+   "autor": "chus c"
+  },
+  {
+   "texto": "Estupendas las mejores ambiente familiar y relax",
+   "autor": "Belén S"
+  },
+  {
+   "texto": "Me han dejado unas uñas preciosas, la delicadeza con la que me han tratado ha sido extraordinaria. Llevaba una manicura muy mal hecha y había tenido mucha molestia en otro local, aquí me lo han arreglado. Repetiré seguro!",
+   "autor": "Lucía S"
+  }
+ ],
+ "total_servicios": 37
+}
